@@ -1,0 +1,21 @@
+# For now
+documentation/
+
+# Directories
+.idea/
+.vscode/
+books/
+vwa-kurs/
+code/Machine-Learning/
+code/__pycache__/
+code/Algorithmen-In-Python/
+code/.ipynb_checkpoints/
+code/testing/
+
+# Files
+*.sublime-workspace
+*.sublime-project
+*.odt
+*.doc
+*.docx
+*.ipynb
