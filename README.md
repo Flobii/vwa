@@ -21,4 +21,3 @@ Die Einreichung meines Themas ist hier zu finden:
 - [ ] Implementierung des Spiels
 - [x] Begleitprotokoll ausfüllen
 - [ ] Fahrplan und Meilensteine hinzufügen
-- [ ] "Informatik Handbuch" – Rechenberg Pomberger
