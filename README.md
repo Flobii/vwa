@@ -18,6 +18,7 @@ Die Einreichung meines Themas ist hier zu finden:
 ## TODO
 
 - [ ] Über Tensorflow und Keras informieren und lernen
-- [ ] Begleitprotokoll ausfüllen
+- [ ] Implementierung des Spiels
+- [x] Begleitprotokoll ausfüllen
 - [ ] Fahrplan und Meilensteine hinzufügen
 - [ ] "Informatik Handbuch" – Rechenberg Pomberger
